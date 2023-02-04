@@ -1,2 +1,2 @@
-# Learning-Pygame
-This for anyone wanting to learn pygame
+# UnixOperation Github Programming Lessons
+### 
