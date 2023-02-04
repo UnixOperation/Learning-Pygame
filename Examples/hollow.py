@@ -1,3 +1,7 @@
+# Game made by UnixOperation Member: UraniumIgnited
+# Created on Date: 16/12/2022
+# This file has been permitted by UraniumIgnited to be used for public use
+
 import pygame
 from pygame.locals import *
 import random
