@@ -3,9 +3,11 @@
 ###### Don't worry we have your back. lets start lets begin with the basics
 
 # Some Extras
-#### We have uploaded some examples of pygame programs that have been created for anyone to test out and take to edit
+#### We have uploaded some examples of pygame programs that have been created for anyone to test out and take to edit. Under folder `Examples`
 
 # Learining to Pygame!
+#### All Related files can be found Under folder `Tutorial`
+
 Create a python file lets name it `game.py` open it up with any python editor.
 Now lets add some code to test for pygame, first. Write `import pygame` then for the nextline write `pygame.init()`
 
