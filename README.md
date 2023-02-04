@@ -5,7 +5,7 @@
 # Some Extras
 #### We have uploaded some examples of pygame programs that have been created for anyone to test out and take to edit. Under folder `Examples`
 
-# Learining to Pygame!
+# Learinning to Pygame!
 #### All Related files can be found Under folder `Tutorial`
 
 Create a python file lets name it `game.py` open it up with any python editor.
